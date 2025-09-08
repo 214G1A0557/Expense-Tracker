@@ -51,10 +51,9 @@ Add expenses, view reports, and enjoy colorful charts 🎉
 ## 📊 Example Output  
 
 **Bar Chart**  
-![Bar Chart](screenshots/expense_chart.png)  
-
+![Bar Chart](expense_chart.png)
 **Pie Chart**  
-![Pie Chart](screenshots/expense_pie.png)  
+![Pie Chart](expense_pie.png)
 
 
 
@@ -65,5 +64,6 @@ You can extend this project with:
 📅 Monthly/Yearly expense reports
 
 🥧 Pie chart with interactive legends
+
 
 🔮 Predicting future expenses using ML
